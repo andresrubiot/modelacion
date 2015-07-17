@@ -1,0 +1,31 @@
+.sy {
+    position: relative;
+    text-align: center;
+}
+.oncapital, .onsmall {
+    position: absolute;
+    top: -1em;
+    left: 0px;
+    width: 100%;
+    font-size: 70%;
+    text-align: center;
+}
+.onsmall {
+    top: -0.7em;
+}
+
+.radical {
+    position: relative;
+    font-size: 1.6em;
+    vertical-align: middle;
+}
+.n-root {
+    position: absolute;
+    top: -0.333em;
+    left: 0.333em;
+    font-size: 45%;
+}
+.radicand { 
+    padding: 0.25em 0.25em;
+    border-top: thin black solid;
+}
